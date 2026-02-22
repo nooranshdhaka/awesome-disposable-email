@@ -19,8 +19,8 @@
 ### Open Source Software
 
 - [Inboxkitten](https://github.com/uilicious/inboxkitten) - Disposable email service using Mailgun API. ([Demo](https://inboxkitten.com)) `MIT License` `Javascript`
-- [Maildrop](https://gitlab.com/markbeeson/maildrop) - Temporary inbox using Haraka SMTP server. ([Demo](https://maildrop.cc))  `MIT License`
-- [Guerilla Mail](https://github.com/flashmob/GuerrillaMail) - ([Demo](https://www.guerrillamail.com)) 
+- [Maildrop](https://gitlab.com/markbeeson/maildrop) - Temporary inbox using Haraka SMTP server. ([Demo](https://maildrop.cc)) `MIT License` `Typescript`
+- [Guerilla Mail](https://github.com/flashmob/GuerrillaMail) - Library for GuerrillaMail ([Demo](https://www.guerrillamail.com)) `MIT License` `PHP`
 
 ## Email Forwarding
 
@@ -34,8 +34,8 @@
 ### Open Source Software
 
 - [AnonAddy](https://github.com/anonaddy/anonaddy) - Email aliases for email forwarding. ([Demo](https://anonaddy.com)) `AGPL-3.0 license` `PHP`
-- [Simpleogin](https://github.com/simple-login) - Email aliases for email forwarding. ([Demo](https://simplelogin.io)) `AGPL-3.0 license`
-- [Spamgourmet](https://github.com/spamgourmet/spamgourmet) ([Demo](https://www.spamgourmet.com))
+- [Simpleogin](https://github.com/simple-login) - Email aliases for email forwarding. ([Demo](https://simplelogin.io)) `AGPL-3.0 license` `Python`
+- [Spamgourmet](https://github.com/spamgourmet/spamgourmet) ([Demo](https://www.spamgourmet.com)) `-` `Perl`
 
 --------------------
 
