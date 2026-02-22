@@ -11,11 +11,10 @@
 - [Guerilla Mail](https://www.guerrillamail.com) - Free; Storage: 1 hour; Features: API, multiple domains, **sending emails with attachments**.
 - [NoEmail.cc](https://noemail.cc) - Free; Storage: 24 hours; Features: multiple domains.
 - [Email Generator](https://generator.email) - Free; Features: multiple domains, **custom domains**.
-- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 - [Fake Mail Generator](https://www.fakemailgenerator.com) - Free; Storage: 24 hours; Features: multiple domains. ([de](https://www.wegwerfemailadresse.com), [fr](https://www.adresseemailtemporaire.com), [es](https://www.emailtemporalgratis.com), [it](https://www.emailtemporanea.org))
-- [Hour.email](https://hour.email) - Free; Storage: 1 hour.
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
+- [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
 
 ### Open Source Software
 
@@ -29,7 +28,7 @@
 
 - [AnonAddy](https://anonaddy.com) - Free/paid; Features: unlimited aliases, API, custom domain (paid). ([GitHub](https://github.com/anonaddy/anonaddy))
 - [Shitmail](https://www.shitmail.org) - Free; Up to 3 months.
-- [Simpleogin](https://simplelogin.io) - Free/paid; Features: 10 aliases, custom domain (paid). ([GitHub](https://github.com/simple-login))
+- [SimpleLogin](https://simplelogin.io) - Free/paid; Features: 10 aliases, custom domain (paid). ([GitHub](https://github.com/simple-login))
 
 ### Open Source Software
 
