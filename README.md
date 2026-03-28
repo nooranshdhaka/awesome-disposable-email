@@ -15,6 +15,8 @@
 - [FakeMail](https://www.fakemail.net) - Free; Storage: 2 weeks.
 - [Maildrop](https://maildrop.cc) - Free. 
 - [Inboxkitten](https://inboxkitten.com) - Free; Storage: for 3 hours.
+- [NukeMail](https://nukemail.app) - Free/paid; Storage: 24 hours (free), unlimited (paid); Features: **custom usernames**, multiple domains, **access code for inbox recovery from any device**, no tracking.
+
 
 ### Open Source Software
 
